@@ -1,0 +1,161 @@
+\begin{thebibliography}{10}
+
+\bibitem{miyaguchi2022motif}
+Anthony Miyaguchi, Jiangyue Yu, Bryan Cheungvivatpant, Dakota Dudley, and
+  Aniketh Swain.
+\newblock Motif mining and unsupervised representation learning for birdclef
+  2022.
+\newblock {\em arXiv preprint arXiv:2206.04805}, 2022.
+
+\bibitem{cynthia2023effective}
+B~Cynthia~Sherin and Kayalvizhi Jayavel.
+\newblock Effective vehicle classification and re-identification on stanford
+  cars dataset using convolutional neural networks.
+\newblock In {\em Proceedings of 3rd International Conference on Artificial
+  Intelligence: Advances and Applications: ICAIAA 2022}, pages 177--190.
+  Springer, 2023.
+
+\bibitem{wang2016multi}
+Xing Wang, Xiaoping Sun, Mingchang Cao, Yinlong Zhang, and Mingchang Zhu.
+\newblock A multi-scale approach to investigating the wintering habitat
+  selection of red-crowned cranes in the yancheng nature reserve, china.
+\newblock {\em Pakistan Journal of Zoology}, 48(2), 2016.
+
+\bibitem{progga2021cnn}
+Nagifa~Ilma Progga, Noortaz Rezoana, Mohammad~Shahadat Hossain, Raihan~Ul
+  Islam, and Karl Andersson.
+\newblock A cnn based model for venomous and non-venomous snake classification.
+\newblock In {\em Applied Intelligence and Informatics: First International
+  Conference, AII 2021, Nottingham, UK, July 30--31, 2021, Proceedings 1},
+  pages 216--231. Springer, 2021.
+
+\bibitem{liu2023learn}
+Dichao Liu, Longjiao Zhao, Yu~Wang, and Jien Kato.
+\newblock Learn from each other to classify better: Cross-layer mutual
+  attention learning for fine-grained visual classification.
+\newblock {\em Pattern Recognition}, 140:109550, 2023.
+
+\bibitem{hou2019multilayer}
+Yong Hou, Hangzai Luo, Wanqing Zhao, Xiang Zhang, Jun Wang, and Jinye Peng.
+\newblock Multilayer feature descriptors fusion cnn models for fine-grained
+  visual recognition.
+\newblock {\em Computer Animation and Virtual Worlds}, 30(3-4):e1897, 2019.
+
+\bibitem{han2019p}
+Junwei Han, Xiwen Yao, Gong Cheng, Xiaoxu Feng, and Dong Xu.
+\newblock P-cnn: Part-based convolutional neural networks for fine-grained
+  visual categorization.
+\newblock {\em IEEE transactions on pattern analysis and machine intelligence},
+  44(2):579--590, 2019.
+
+\bibitem{fu2017look}
+Jianlong Fu, Heliang Zheng, and Tao Mei.
+\newblock Look closer to see better: Recurrent attention convolutional neural
+  network for fine-grained image recognition.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 4438--4446, 2017.
+
+\bibitem{fayou2022combining}
+Sun Fayou, H~Ngo, and Y~Sek.
+\newblock Combining multi-feature regions for fine-grained image recognition.
+\newblock {\em Int. J. Image Graph. Signal Process}, 14:15--25, 2022.
+
+\bibitem{amir2017image}
+Amiza Amir, Nik Adilah~Hanin Zahri, Naimah Yaakob, and R~Badlishah Ahmad.
+\newblock Image classification for snake species using machine learning
+  techniques.
+\newblock In {\em Computational Intelligence in Information Systems:
+  Proceedings of the Computational Intelligence in Information Systems
+  Conference (CIIS 2016)}, pages 52--59. Springer, 2017.
+
+\bibitem{yang2021snake}
+Zihan Yang and Richard Sinnott.
+\newblock Snake detection and classification using deep learning.
+\newblock 2021.
+
+\bibitem{patel2020revealing}
+Anika Patel, Lisa Cheung, Nandini Khatod, Irina Matijosaitiene, Alejandro
+  Arteaga, and Joseph~W Gilkey~Jr.
+\newblock Revealing the unknown: real-time recognition of gal{\'a}pagos snake
+  species using deep learning.
+\newblock {\em Animals}, 10(5):806, 2020.
+
+\bibitem{zhai2013heterogeneous}
+Xiaohua Zhai, Yuxin Peng, and Jianguo Xiao.
+\newblock Heterogeneous metric learning with joint graph regularization for
+  cross-media retrieval.
+\newblock In {\em Proceedings of the AAAI Conference on Artificial
+  Intelligence}, volume~27, pages 1198--1204, 2013.
+
+\bibitem{chu2019geo}
+Grace Chu, Brian Potetz, Weijun Wang, Andrew Howard, Yang Song, Fernando
+  Brucher, Thomas Leung, and Hartwig Adam.
+\newblock Geo-aware networks for fine-grained recognition.
+\newblock In {\em Proceedings of the IEEE/CVF International Conference on
+  Computer Vision Workshops}, pages 0--0, 2019.
+
+\bibitem{he2017fine}
+Xiangteng He and Yuxin Peng.
+\newblock Fine-grained image classification via combining vision and language.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 5994--6002, 2017.
+
+\bibitem{bloch2022combination}
+Louise Bloch, Jan-Frederick B{\"o}ckmann, Benjamin Bracke, and Christoph~M
+  Friedrich.
+\newblock Combination of object detection, geospatial data, and feature
+  concatenation for snake species identification.
+\newblock 2022.
+
+\bibitem{bolon2022artificial}
+Isabelle Bolon, Luk{\'a}{\v{s}} Picek, Andrew~M Durso, Gabriel Alcoba,
+  Fran{\c{c}}ois Chappuis, and Rafael Ruiz~de Casta{\~n}eda.
+\newblock An artificial intelligence model to identify snakes from across the
+  world: Opportunities and challenges for global health and herpetology.
+\newblock {\em PLoS neglected tropical diseases}, 16(8):e0010647, 2022.
+
+\bibitem{dosovitskiy2020image}
+Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn,
+  Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg
+  Heigold, Sylvain Gelly, et~al.
+\newblock An image is worth 16x16 words: Transformers for image recognition at
+  scale.
+\newblock {\em arXiv preprint arXiv:2010.11929}, 2020.
+
+\bibitem{diao2022metaformer}
+Qishuai Diao, Yi~Jiang, Bin Wen, Jia Sun, and Zehuan Yuan.
+\newblock Metaformer: A unified meta framework for fine-grained recognition.
+\newblock {\em arXiv preprint arXiv:2203.02751}, 2022.
+
+\bibitem{sandler2018mobilenetv2}
+Mark Sandler, Andrew Howard, Menglong Zhu, Andrey Zhmoginov, and Liang-Chieh
+  Chen.
+\newblock Mobilenetv2: Inverted residuals and linear bottlenecks.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 4510--4520, 2018.
+
+\bibitem{zhang2018generalized}
+Zhilu Zhang and Mert Sabuncu.
+\newblock Generalized cross entropy loss for training deep neural networks with
+  noisy labels.
+\newblock {\em Advances in neural information processing systems}, 31, 2018.
+
+\bibitem{deng2019arcface}
+Jiankang Deng, Jia Guo, Niannan Xue, and Stefanos Zafeiriou.
+\newblock Arcface: Additive angular margin loss for deep face recognition.
+\newblock In {\em Proceedings of the IEEE/CVF conference on computer vision and
+  pattern recognition}, pages 4690--4699, 2019.
+
+\bibitem{liu2022deep}
+Yue Liu, Wenxuan Tu, Sihang Zhou, Xinwang Liu, Linxuan Song, Xihong Yang, and
+  En~Zhu.
+\newblock Deep graph clustering via dual correlation reduction.
+\newblock In {\em Proceedings of the AAAI Conference on Artificial
+  Intelligence}, volume~36, pages 7603--7611, 2022.
+
+\bibitem{oord2018representation}
+Aaron van~den Oord, Yazhe Li, and Oriol Vinyals.
+\newblock Representation learning with contrastive predictive coding.
+\newblock {\em arXiv preprint arXiv:1807.03748}, 2018.
+
+\end{thebibliography}
